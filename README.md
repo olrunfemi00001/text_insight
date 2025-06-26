@@ -53,7 +53,6 @@ This API is ideal for projects that require basic Natural Language Processing ca
    python app.py
    ```
 
----
 
 ## API Usage
 
