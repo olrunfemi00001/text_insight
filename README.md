@@ -1,4 +1,3 @@
-````markdown
 # Text Insight API
 
 **Text Insight API** is a lightweight and intelligent Flask-based NLP API that analyzes raw text input and returns:
